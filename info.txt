@@ -1,0 +1,5 @@
+Student_id : 2313110880
+Student Name : Pornnapas Thapjhaihan
+Major : IT
+Level : 1
+Faculty : Information Technology
